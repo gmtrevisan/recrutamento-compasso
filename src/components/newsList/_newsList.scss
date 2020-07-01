@@ -1,0 +1,14 @@
+.newsList__error {
+    margin-top: 20px;
+}
+
+.newsList__load,
+.newsList__loading,
+.newsList__error {
+    text-align: center;
+
+    span {
+        font-size: 14px;
+        color: #333;
+    }
+}
