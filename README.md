@@ -21,7 +21,7 @@ Instala as dependências do projeto.
 Executa a aplicação em modo de desenvolvimento.<br />
 Abra http://localhost:3000 para visualizar no navegador.
 
-### `npm test -- --coverage`
+### `npm test -- --coverage --watchAll=false`
 
 Executa os teste e apresenta cobertura.<br />
 
